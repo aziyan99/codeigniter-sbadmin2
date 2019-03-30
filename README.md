@@ -1,4 +1,5 @@
 Ini merupakan penintergrasian codeigniter 3 dengan template admin bootstrap sb admin 2 <br>
+<hr>
 Mengunakan struktur standart MVC <br>
 Halaman yang sudah di buat : <br>
 - <b>Index.php</b>
