@@ -4,7 +4,7 @@ Just a simple codeigniter template using SBAdmin theme
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You can change or modife fully this projeject 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You can change or modife fully this project 
 
 
 ### Folder structure
