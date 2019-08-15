@@ -17,7 +17,10 @@ class Auth extends CI_Controller{
 		$this->load->view('_part/login_footer');
 	}
 
-	public function login(){
-		
+	public function register(){
+		$data['title'] = 'Recovery password';
+		$this->load->view('_part/login_head', $data);
+		$this->load->view('register_v');
+		$this->load->view('_part/login_footer');
 	}
 }
