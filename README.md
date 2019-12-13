@@ -1,6 +1,6 @@
 # Codeigniter SBAdmin2
 
-Just a simple codeigniter template using SBAdmin theme
+Just a simple codeigniter template using SBAdmin theme, just simple download from this https://github.com/aziyan99/codeigniter-sbadmin2/releases
 
 ## Getting Started
 
